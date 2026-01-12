@@ -1,0 +1,16 @@
+case_id,customer_type,amount_due,days_overdue,past_payment_delay,previous_escalations
+C001,SME,45000,30,10,0
+C002,Enterprise,120000,90,45,1
+C003,Individual,15000,60,25,0
+C004,SME,78000,120,60,2
+C005,Enterprise,200000,45,20,0
+C006,Individual,9000,20,5,0
+C007,SME,56000,75,30,1
+C008,Enterprise,310000,150,80,3
+C009,Individual,18000,40,15,0
+C010,SME,67000,95,50,2
+C011,Enterprise,145000,110,55,2
+C012,Individual,22000,65,28,1
+C013,SME,49000,35,12,0
+C014,Enterprise,275000,140,70,3
+C015,Individual,12000,25,8,0

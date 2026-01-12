@@ -1,0 +1,6 @@
+dca_id,avg_recovery_days,recovery_rate,sla_violations,escalation_rate,update_delay_days
+DCA_A,35,0.82,2,0.08,1
+DCA_B,50,0.74,5,0.15,3
+DCA_C,28,0.88,1,0.05,1
+DCA_D,65,0.6,8,0.25,4
+DCA_E,40,0.78,3,0.1,2
